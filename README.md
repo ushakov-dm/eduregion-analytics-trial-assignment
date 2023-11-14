@@ -1,6 +1,6 @@
 <img src="https://storage.yandexcloud.net/eduregion-design/logo/eduregion-logo-white.png" width="200px">
 <br>
-<br>
+
 
 # Тестовое задание на позицию BI-аналитик
 
